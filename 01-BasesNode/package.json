@@ -1,0 +1,15 @@
+{
+  "name": "01-basesnode",
+  "version": "1.0.0",
+  "description": "Es un proceso con un bucle que gestiona, de forma asíncrona, todolo los eventos de la aplicación.",
+  "main": "01-monohilo.js",
+  "scripts": {
+    "dev": "nodemon 02-entorno.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
